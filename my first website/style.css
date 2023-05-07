@@ -1,0 +1,12 @@
+*{
+    background-color: aquamarine;
+}
+.middle {
+    text-align: center;
+}
+.mid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
